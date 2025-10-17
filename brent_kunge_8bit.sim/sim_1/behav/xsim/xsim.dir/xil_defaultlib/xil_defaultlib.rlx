@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sim_1/new/tb.v,1730883944,verilog,,,,eightbit_tb,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sources_1/new/buff.v,1730124946,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sources_1/new/carry.v,,buff,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sources_1/new/carry.v,1730126542,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sources_1/new/carrygen.v,,carry,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sources_1/new/carrygen.v,1730125036,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sources_1/new/eightbit.v,,carrygen,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sources_1/new/eightbit.v,1730886726,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sources_1/new/sum.v,,eightbit,,,,,,,,
+C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sources_1/new/sum.v,1730127117,verilog,,C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sim_1/new/tb.v,,sum,,,,,,,,

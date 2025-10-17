@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time=0 | a=11111111 | b=00000000 | cin=1 | sum=00000000 | cout=1
+Time=10 | a=10000001 | b=10000001 | cin=1 | sum=00000011 | cout=1
+Time=20 | a=11111110 | b=00000001 | cin=1 | sum=00000000 | cout=1
+Time=30 | a=00001111 | b=00000001 | cin=1 | sum=00010001 | cout=0
+Time=40 | a=10000011 | b=11000011 | cin=0 | sum=01000110 | cout=1
+Time=50 | a=10101010 | b=01010101 | cin=0 | sum=11111111 | cout=0
+Time=60 | a=11111111 | b=11111111 | cin=1 | sum=11111111 | cout=1
+Time=70 | a=11001100 | b=00110011 | cin=1 | sum=00000000 | cout=1
+$stop called at time : 80 ns : File "C:/Users/htara/OneDrive/Desktop/VIVA/brent_kunge_8bit/brent_kunge_8bit.srcs/sim_1/new/tb.v" Line 35
